@@ -9,6 +9,6 @@ Build-Depends: debhelper (>= 7)
 Package: imx-freescale-eula
 Section: kernel
 Priority: extra
-Architecture: armel
+Architecture: armel armhf
 Description: Freescale EULA package
  Freescale EULA package, other packages should depend on it.
