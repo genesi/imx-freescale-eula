@@ -1,3 +1,9 @@
+imx-freescale-eula (2.0.0-201203) unstable; urgency=low
+
+  * Release for Debian unstable.
+
+ -- Konstantinos Margaritis <markos@genesi-usa.com>  Fri, 23 Mar 2012 10:49:16 +0200
+
 imx-freescale-eula (2.0.0-20110714) maverick; urgency=low
 
   * Initial release. Other imx packages should depend on it to force the
